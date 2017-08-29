@@ -5,7 +5,8 @@
 
 ## 2.Crear una cuenta en GitHub y utilizarla en EclipseChe
 
-![Crear cuenta en gitHub, regristro](https://github.com/JulitaPineda/labprograavanzada/issues/2)
+![Crear cuenta en gitHub, regristro](https://github.com/JulitaPineda/labprograavanzada/issues/2)  
+
 ![Usarla en EclipseChe](https://github.com/JulitaPineda/labprograavanzada/issues/3)
 
 ## 3.Implementar los siguientes diagramas en EclipseChe
