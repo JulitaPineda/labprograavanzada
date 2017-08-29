@@ -1,7 +1,7 @@
 # Laboratorio 2
 
 ## 1.Comprobar la versión de Java disponible en su sistema (compilador y ejecución)
-
+![Version Java](https://github.com/JulitaPineda/labprograavanzada/issues/1)
 
 ## 2.Crear una cuenta en GitHub y utilizarla en EclipseChe
 
