@@ -19,8 +19,7 @@ public class Point {
     int y=0;
     
     public void Point() {
-		
-	  }
+    }
     
     public Point(int x, int y){
         this.x = x;
@@ -48,9 +47,9 @@ public class Point {
     }
     
     public void setxy(int X, int Y) {
-		     this.X = X;
-		     this.Y = Y;
-	  }
+	this.X = X;
+	this.Y = Y;
+    }
     
     public void setXY(int x, int y){
         this.x = x;
@@ -58,17 +57,17 @@ public class Point {
     }
     
     public void setxy(int X, int Y) {
-		    this.X = X;
-		    this.Y = Y;
-   	}
+	this.X = X;
+	this.Y = Y;
+    }
 	
-   	public double Distance1 (double X2, double Y2) {
-		    double Distance1 = (double)Math.sqrt((Math.pow((X2-X), 2)+ Math.pow((Y2-Y), 2)));
-		    return Distance1;	
-	  }
+     public double Distance1 (double X2, double Y2) {
+          double Distance1 = (double)Math.sqrt((Math.pow((X2-X), 2)+ Math.pow((Y2-Y), 2)));
+          return Distance1;	
+     }
     
-	  public double Distance(double Distance1) {
-		    return Distance1; 
+     public double Distance(double Distance1) {
+          return Distance1; 
     }
 }
 
