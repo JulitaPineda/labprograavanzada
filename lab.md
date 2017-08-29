@@ -2,6 +2,7 @@
 
 ## 1.Comprobar la versión de Java disponible en su sistema (compilador y ejecución)
 
+
 ## 2.Crear una cuenta en GitHub y utilizarla en EclipseChe
 
 
