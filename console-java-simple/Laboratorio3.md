@@ -9,9 +9,10 @@ Una interfaz es una colección de metodos abstractos y propiedades constanstes. 
 Una clase abstracta es en la que no se puede instanciar, unicamente se usa para definir las subclases.
 
 ### ¿Que diferencia hay entre herencia e interfaces?
-
+En la herencia las clases pueden heredar propiedades y metodos de una clase abstracta, en cambia en la interface se tienen que poner todos los metodos declarados en la interface.
 
 ### ¿Cual es la diferencia entre pila, cola y lista?
+La lista nos permite almacenar datos de una forma organizada y es una estructura dinamica. Una pila es una estructura de datos en la cual el ultimo elemente en entrar es el primero en salir y una cola el primer elemento en entrar es el primero en salir.
 
 
 
