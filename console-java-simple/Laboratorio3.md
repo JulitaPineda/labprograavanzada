@@ -1,14 +1,14 @@
 # desktop-java-simple
 
-##Laboratorio 3
+## Laboratorio 3
 
-###¿Que es una interfaz?
+### ¿Que es una interfaz?
 
-###¿Que es una clase abstracta?
+### ¿Que es una clase abstracta?
 
-###¿Que diferencia hay entre herencia e interfaces?
+### ¿Que diferencia hay entre herencia e interfaces?
 
-###¿Cual es la diferencia entre pila, cola y lista?
+### ¿Cual es la diferencia entre pila, cola y lista?
 
 
 
