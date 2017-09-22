@@ -1,20 +1,7 @@
-# console-cpp-simple
+##Laboratorio 4
 
-# Developer Workspace
-
-[![Contribute](http://beta.codenvy.com/factory/resources/codenvy-contribute.svg)](http://beta.codenvy.com/f?id=21w2nx87yto2xi1z)
-
-# Recipe
-
-FROM [codenvy/cpp_gcc](https://hub.docker.com/r/codenvy/cpp_gcc/)
-
-# Commands
-
-| #       | Description           | Command  |
-| :------------- |:-------------| :-----|
-| 1      | Build and run | `cd ${current.project.path} && make && ./a.out` |
+Se implemento las operaciones de multiplicación, división, suma y resta, por valor y por referencia.
+Tambien se apredion a usar prototipos, como hacer uso de los punteros 
 
 
-# Output
 
-The app will print Hello World to the console
